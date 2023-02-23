@@ -1,2 +1,2 @@
-# powerBi
-Learning PowerBI
+# PowerBi
+PowerBI tutorial
